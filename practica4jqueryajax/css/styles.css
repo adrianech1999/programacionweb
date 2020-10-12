@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+#book{
+    width: 100%;
+    margin: auto;
+    border: 0;
+}
+#portada, #final{
+    color: white;
+}
+#buscador{
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
